@@ -12,7 +12,7 @@
 	<p>git commit --amend 하면 유닉스 에디터로 들어가짐
 	   a 누르면 수정모드로 들어가짐 insert로 바뀜
 	   수정한 후 esc 누르고 :wq!</p>
-	
+	<p>내가먼저 수정했다고!!</p>
 </body>
 </html>
 	
