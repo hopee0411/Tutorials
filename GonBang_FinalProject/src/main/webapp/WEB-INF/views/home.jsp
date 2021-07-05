@@ -9,7 +9,7 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 <title>
-test 변경     test변경2입니다. test변경3입니다.
+
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -26,7 +26,7 @@ test 변경     test변경2입니다. test변경3입니다.
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
-JHY변경1
+
 <header>
 	<jsp:include page="header.jsp" />
 </header>
