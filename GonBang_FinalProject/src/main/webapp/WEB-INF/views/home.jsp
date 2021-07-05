@@ -9,7 +9,7 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 <title>Home12312312323
-정호용 나영준 
+정호용 나영준 12시26분입니다.
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -25,6 +25,7 @@
 <!-- Core theme CSS (includes Bootstrap)-->
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
+<body>
 <header>
 	<jsp:include page="header.jsp" />
 </header>
