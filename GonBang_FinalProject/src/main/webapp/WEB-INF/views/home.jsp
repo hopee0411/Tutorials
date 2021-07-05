@@ -9,7 +9,6 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 <title>
-가지1변경 가지 2변경
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -26,11 +25,9 @@
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
-가지1변경 했어요 가지1에서 한번더 변경
 <header>
 	<jsp:include page="header.jsp" />
 </header>
-가지2에서 한번 더 변경 gfsdagfsagrewgre
 <!-- 슬라이더-------------------------------------------------------- -->
 <div class="slider">
 	<div id="carouselExampleDark" class="carousel carousel-dark slide"
