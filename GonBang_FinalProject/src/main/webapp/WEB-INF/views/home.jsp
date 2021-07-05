@@ -30,7 +30,7 @@
 <header>
 	<jsp:include page="header.jsp" />
 </header>
-
+가지2에서 한번 더 변경
 <!-- 슬라이더-------------------------------------------------------- -->
 <div class="slider">
 	<div id="carouselExampleDark" class="carousel carousel-dark slide"
