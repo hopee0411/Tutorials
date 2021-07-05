@@ -24,7 +24,7 @@
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
-
+마스터 변경
 <header>
 	<jsp:include page="header.jsp" />
 </header>
