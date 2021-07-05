@@ -10,6 +10,7 @@
 <meta name="author" content="" />
 <title>
 2:20분 나영준입니다.
+2번쨰 확인
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
