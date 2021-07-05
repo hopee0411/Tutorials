@@ -26,11 +26,10 @@
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
-가지1변경 했어요 가지1에서 한번더 변경
+가지1변경 했어요 가지1에서 한번더 변경 fdsagfdawgrwearew
 <header>
 	<jsp:include page="header.jsp" />
 </header>
-가지2에서 한번 더 변경
 <!-- 슬라이더-------------------------------------------------------- -->
 <div class="slider">
 	<div id="carouselExampleDark" class="carousel carousel-dark slide"
