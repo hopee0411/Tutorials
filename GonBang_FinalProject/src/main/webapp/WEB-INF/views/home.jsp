@@ -8,10 +8,7 @@
 	content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="description" content="" />
 <meta name="author" content="" />
-<title>Home12312312323
-정호용 나영준 12시26분입니다.
-정홍ㅇ 12:50
-</title>
+<title></title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
 <!-- Font Awesome icons (free version)-->
@@ -27,10 +24,10 @@
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
+
 <header>
 	<jsp:include page="header.jsp" />
 </header>
-zzzzzzzzxzxdxxcddsafdsafdsafddfsafds
 <!-- 슬라이더-------------------------------------------------------- -->
 <div class="slider">
 	<div id="carouselExampleDark" class="carousel carousel-dark slide"
