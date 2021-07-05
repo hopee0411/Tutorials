@@ -9,25 +9,12 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 <title>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
-=======
-jhy수정수정222
-jhy수정수정111
->>>>>>> JHY
 jhy변경
->>>>>>> JHY
-=======
 2:20분 나영준입니다.
-<<<<<<< HEAD
->>>>>>> test
-=======
+
 2번쨰 확인
 3번째 확인.
->>>>>>> test
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
