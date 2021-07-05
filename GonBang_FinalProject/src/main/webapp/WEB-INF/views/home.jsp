@@ -26,6 +26,7 @@ test 변경
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
+JHY변경1
 <header>
 	<jsp:include page="header.jsp" />
 </header>
