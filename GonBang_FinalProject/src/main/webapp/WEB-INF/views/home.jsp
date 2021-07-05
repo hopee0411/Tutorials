@@ -10,10 +10,14 @@
 <meta name="author" content="" />
 <title>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 jhy변경
 >>>>>>> JHY
+=======
+2:20분 나영준입니다.
+>>>>>>> test
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
