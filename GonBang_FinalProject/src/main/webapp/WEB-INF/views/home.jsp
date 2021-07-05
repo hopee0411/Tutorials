@@ -8,10 +8,8 @@
 	content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="description" content="" />
 <meta name="author" content="" />
-<title>Home12312312323
-정호용 나영준 
-정호용 나영준 12시26분입니다.
-정홍ㅇ 12:50 ㅇㄴㅁㄹㅇㄴㅁㄹㅇㄴㅁ
+<title>
+가지1
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -28,7 +26,6 @@
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
-바디변경 정호용12:27 dfsafdsafdsa
 <header>
 	<jsp:include page="header.jsp" />
 </header>
