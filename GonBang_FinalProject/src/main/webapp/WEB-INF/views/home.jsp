@@ -9,6 +9,7 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 <title>
+jhy변경
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
