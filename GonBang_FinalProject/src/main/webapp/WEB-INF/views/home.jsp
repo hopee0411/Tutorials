@@ -9,23 +9,11 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 <title>
-<<<<<<< HEAD
 
-jhy변경
-=======
-<<<<<<< HEAD
->>>>>>> test
 2:20분 나영준입니다.
-
 2번쨰 확인
 3번째 확인.
-<<<<<<< HEAD
-안녕하세요
-=======
-=======
-
->>>>>>> master
->>>>>>> test
+ㅁㄴㅇㅁㄴㅇㄴㅇㅇㄴㅇㅁㄴㅇㅁㄴ
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
