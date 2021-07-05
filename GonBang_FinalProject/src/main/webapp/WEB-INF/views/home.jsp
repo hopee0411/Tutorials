@@ -26,6 +26,7 @@
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
+가지1변경 했어요
 <header>
 	<jsp:include page="header.jsp" />
 </header>
