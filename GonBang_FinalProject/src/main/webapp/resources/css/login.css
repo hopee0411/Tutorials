@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+.login-all {
+	width: 1200px;
+	height: 300px;
+	margin-top: 50px;
+	padding: 10px;
+}
+
+#login-person {
+	text-align: center;
+}
+
+.person-all {
+	width: 500px;
+	height: 300px;
+	float: left;
+	border: 1px dotted blue;
+	border-radius: 10px;
+	background-color: lightyellow;
+	padding-top: 50px;
+	color: white;
+}
+
+span {
+	width: none;
+	background-color: #f495cc;
+}
+
+.company-all {
+	width: 500px;
+	height: 300px;
+	float: right;
+	border: 1px dotted blue;
+	border-radius: 10px;
+	background-color: lightyellow;
+	padding-top: 50px;
+	color: white;
+}
+
+center {
+	margin-top: 150px;
+}
+
+.idinput {
+	margin: 5px;
+}
+
+.loginbtn {	
+	margin: 5px;
+	margin-top: 10px;
+}
+
+.btnStyle {
+	width: 50%;
+	border: none;
+}
+
+.btnPdd {
+	padding: 5px;
+}

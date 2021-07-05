@@ -1,0 +1,73 @@
+* {
+	box-sizing: border-box;
+}
+
+.header {
+	height:200px;
+	width:100%;
+	/* background-color: #ec93ea255255255; */
+	background-color: #4995b6;
+}
+.header_top {
+	height: 120px;
+	width:1000px;
+}
+.header_footer {
+	height: 80px;
+	width:1000px;
+}
+
+
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	height: 100%;
+	background-color: rgb(255, 255, 255);
+}
+
+
+
+/*
+ * Responsive css
+ */
+@media only screen and (max-width: 768px) {
+	.content {
+		max-width: 100%;
+	}
+	.board-form, .write-form {
+		max-width: 360px;
+		padding: 0px;
+	}
+	
+	.title-row .t-date, .title-row .t-view,
+	.data-row .t-date, .data-row .t-view {
+		display: none;
+	}
+	.p-10 {
+		width: 20%;
+	}
+	.p-15 {
+		width: 25%;
+	}
+	.p-30 {
+		width: 55%;
+	}
+	
+	.filebox label {
+		text-align: center;
+		width: 100%;
+	}
+	
+	.filebox .upload-name {
+		width: 100%;
+	}
+	
+}
