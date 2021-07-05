@@ -9,9 +9,13 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 <title>
+<<<<<<< HEAD
 2:20분 나영준입니다.
 2번쨰 확인
 3번째 확인.
+=======
+
+>>>>>>> master
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
