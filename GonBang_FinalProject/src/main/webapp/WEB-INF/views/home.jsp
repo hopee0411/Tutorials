@@ -9,7 +9,7 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 <title>
-가지1변경 
+가지1변경 가지 2변경
 </title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
