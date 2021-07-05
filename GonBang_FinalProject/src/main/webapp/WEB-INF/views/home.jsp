@@ -8,7 +8,9 @@
 	content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="description" content="" />
 <meta name="author" content="" />
-<title></title>
+<title>
+가지1변경 
+</title>
 <!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
 <!-- Font Awesome icons (free version)-->
@@ -24,10 +26,10 @@
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
 <body>
-마스터 변경
 <header>
 	<jsp:include page="header.jsp" />
 </header>
+
 <!-- 슬라이더-------------------------------------------------------- -->
 <div class="slider">
 	<div id="carouselExampleDark" class="carousel carousel-dark slide"
