@@ -25,6 +25,8 @@
 <!-- Core theme CSS (includes Bootstrap)-->
 <link href="resources/css/styles.css" rel="stylesheet" />
 </head>
+<body>
+바디변경 정호용12:27
 <header>
 	<jsp:include page="header.jsp" />
 </header>
